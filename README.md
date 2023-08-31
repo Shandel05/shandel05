@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shandel, an <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BpQQS%2BXzSS1aMRsEC5%2F%2FnzA%3D%3D)IT Professional</a>☺</h1>
+<h1>Hi, I'm Shandel, an <a href="https://www.linkedin.com/in/shandel-kates-alcantara-312759198/) IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
