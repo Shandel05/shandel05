@@ -7,10 +7,14 @@
   - [osTicket: Post-Installation Configuration](https://github.com/shandel05/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/shandel05/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Installing Active Directory in Azure](https://github.com/Shandel05/Install-A-D) ]
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/shandel05/active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shandel05/NSG)
   - [Understanding Virtual Private Networks (VPN) in Azure](https://github.com/Shandel05/VPN)
-<h2>🤳Connect with me:</h2>
+  - [Installing Active Directory in Azure](https://github.com/Shandel05/Install-A-D)
+  -[Installing Active Directory in Azure](https://github.com/Shandel05/Install-A-D)
+
+  - <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
