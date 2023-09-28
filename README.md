@@ -12,14 +12,11 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shandel05/NSG)
   - [Understanding Virtual Private Networks (VPN) in Azure](https://github.com/Shandel05/VPN)
   - [Understanding DNS in Azure](https://github.com/Shandel05/DNS)
-  - 
-
+  - [Understanding Files and Permissions](https://github.com/Shandel05/Files-and-Permissions)
   - <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[instagram]: https://www.instagram.com/shanibaebeeeee_/
+[linkedin]: https://www.linkedin.com/in/shandel-kates-alcantara/
